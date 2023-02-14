@@ -1,0 +1,43 @@
+{
+  "name": "my-web-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.4.4",
+    "@emailjs/browser": "^3.10.0",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@heroicons/react": "^2.0.13",
+    "@portabletext/react": "^2.0.0",
+    "@sanity/cli": "^2.35.0",
+    "@sanity/image-url": "^1.0.1",
+    "@types/node": "18.11.9",
+    "@types/react": "18.0.25",
+    "@types/react-dom": "18.0.9",
+    "eslint": "8.27.0",
+    "eslint-config-next": "13.0.4",
+    "framer-motion": "^7.6.7",
+    "next": "13.0.4",
+    "next-sanity": "^3.0.2",
+    "nodemailer": "^6.8.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.39.4",
+    "react-simple-typewriter": "^4.0.5",
+    "react-social-icons": "^5.15.0",
+    "typescript": "4.9.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.3",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.19",
+    "tailwind-scrollbar": "^2.0.1",
+    "tailwindcss": "^3.2.4"
+  }
+}
