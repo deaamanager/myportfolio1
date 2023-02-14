@@ -11,7 +11,7 @@
   "dependencies": {
     "@chakra-ui/react": "^2.4.4",
     "@emailjs/browser": "^3.10.0",
-    "@emotion/react": "^11",
+    "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11",
     "@heroicons/react": "^2.0.13",
     "@portabletext/react": "^2.0.0",
